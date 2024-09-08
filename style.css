@@ -45,6 +45,7 @@ body {
     max-width: 773px;
     width: 100%;
     background-color: white;
+    height: 70%;
 }
 
 .result-card-1 {
@@ -76,8 +77,8 @@ body {
     align-items: center;
     border-radius: 50%;
     background-color: hsla(256, 72%, 46%, 1);
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     margin-bottom: 20px;
 }
 
